@@ -19,10 +19,6 @@ I combine a rigorous engineering mindset with data analytics to transform comple
 * Conducted an end-to-end data analysis workflow including data cleaning, transformation, and SQL querying.
 * Built dynamic visual reporting dashboards using **Google Looker Studio** for executive-level insights.
 
-#### ✈️ [Aircraft Performance & Aerodynamic Analysis](https://github.com/YOUR_USERNAME/aircraft-performance-analytics)
-* Built mathematical models in spreadsheets to calculate aircraft rates of climb, service ceilings, and power metrics.
-* Processed and analyzed quantitative wind tunnel experimental data for lift and drag coefficients.
-
 ---
 
 ### 📜 Certifications
